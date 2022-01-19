@@ -1,0 +1,2 @@
+# LOCP_mod-B_project
+LABORATORY OF COMPUTATIONAL PHYSICS (MOD. B) final project 
