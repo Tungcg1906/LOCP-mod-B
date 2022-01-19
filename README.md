@@ -1,6 +1,8 @@
 # LOCP_mod-B_project
 LABORATORY OF COMPUTATIONAL PHYSICS (MOD. B) final project 
 
+Image cleaning with LSTchain
+
 
 # cta-lstchain [![Build Status](https://github.com/cta-observatory/cta-lstchain/workflows/CI/badge.svg?branch=master)](https://github.com/cta-observatory/cta-lstchain/actions?query=workflow%3ACI+branch%3Amaster)
 
