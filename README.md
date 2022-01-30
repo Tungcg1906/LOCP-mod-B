@@ -1,4 +1,4 @@
-# LOCP_mod-B_project
+# LOCP-mod-B-project
 LABORATORY OF COMPUTATIONAL PHYSICS (MOD. B) final project 
 
 Image cleaning with LSTchain
